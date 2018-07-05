@@ -16,12 +16,7 @@ public class Login {
 		String value = driver.getTitle();
 		System.out.println(value);	
 		driver.quit();
-	gvhvhvhjvhjvhhmvmvmvnm
-	dfbd
-	fn'fd
 	
-	dfd
-	ndf
 		
 	}
 
